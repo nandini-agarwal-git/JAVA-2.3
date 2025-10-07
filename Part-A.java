@@ -39,7 +39,6 @@ public class PBLJ6Experiment {
         System.out.println();
     }
 
-    // ✅ Added main() method to execute the program
     public static void main(String[] args) {
         sortEmployees();
     }
